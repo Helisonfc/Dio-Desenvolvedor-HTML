@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação HTML Web Developer</title>
+</head>
+<body>
+    <h1>Primeiros passos com HTML</h1> <hr>
+    <ul>
+        <li>Entendendo comunicação Client X Server</li>
+        <li>Introdução ao HTML na prática</li>
+    </ul> <hr>
+    <h2>Entendendo comunicação Client X Server</h2>
+        <p>Neste módulo foram abordados temas sobre a história dos computadores, a história da internet, arquitetura de computadores, o conceito de Client e de Server e aplicações de todos os conteúdos. Foi um módulo teórico muito interessante.</p> <hr>
+    <h2>Introdução ao HTML na prática</h2>
+        <ul>
+            <li>Apresentando o Curso</li>
+            <li>Ferramentas Utilizadas</li>
+            <li>Inspetor de Elementos</li>
+            <li>Estrutura Básica do HTML</li>
+            <li>Falando sobre Tags</li>
+            <li>Atributos das Tags</li>
+            <li>Textos</li>
+            <li>Listas Ordenadas e Não Ordenadas</li>
+            <li>Links</li>
+        </ul> <hr>
+    <h3>Apresentando o Curso</h3>
+        <p>Nesta seção o professor fez uma introdução ao curso, conceituando HTML, indicando que a estilização das páginas WEB deve ser feita com CSS e que a dinâmica se faz através da linguagem Javascipt, assuntos de outros bootcamps da DIO.</p>
+    <h3>Ferramentas Utilizadas</h3>
+        <p>Nesta seção o professor indicou o VSCode como a IDE que será utilizada no curso, e suas respectivas extensões necessárias para o bom andamento da disciplina.</p>
+    <h3>Inspetor de Elementos</h3>
+        <p>Nesta seção o professor falou sobre o "inspetor de elementos", uma ferramenta dos navegadores que nos permite manipular sites, analisá-los, de forma muito prática.</p>
+    <h3>Estrutura Básica do HTML</h3>
+        <p>Nesta página o professor apresentou os elementos básicos de uma página HTML, composta por diversos elementos que, em geral, o próprio VSCode nos indica de forma automática e prática.</p>
+    <h3>Falando sobre Tags</h3>
+        <p>Nesta seção conhecemos as principais tags do HTML, que servem para produzir uma página completa. Também foi nos apresentado caminhos para conhecermos outras tags.</p>
+    <h3>Atributos das Tags</h3>
+        <p>Nesta seção aprendemos a manipular adequadamente as tags a partir de suas características.</p>
+    <h3>Textos</h3>
+        <p>Nesta aula aprendemos a montar parágrafos, títulos, dentre outros elementos de textos fundamentais para a produção de uma boa página HTML.</p>
+    <h3>Listas Ordenadas e Não Ordenadas</h3>
+        <p>Neste momento aprendemos o que são listas, seus tipos e a manipulá-las. Vimos que elas são fundamentais para o navegador e que, com uso de CSS, podem se tornar menus inteligentes e responsivos.</p>
+    <h3>Links</h3>
+        <p>Nesta seção aprendemos a referenciar páginas externas dentro de nossa página HTML. Também aprendemos a ancorar elementos dentro de nossa própria página.</p>
+</body>
+</html>
