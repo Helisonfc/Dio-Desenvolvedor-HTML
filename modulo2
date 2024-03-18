@@ -1,0 +1,262 @@
+#Página principal:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica saúde nota 10</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+            </ul>
+            <ul>
+                <li><a href="sobre.html">Sobre a clínica</a></li>
+            </ul>
+            <ul>
+                <li><a href="atendimento.html">Horário de Atendimento</a></li>
+            </ul>
+            <ul>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <a href="index.html"><h1>Saúde nota 10</h1></a>
+                <img src="woman-2141808_1280.jpg" alt="">
+                <!-- Aqui vai o seu header -->
+            </div>
+
+            <div class="content">
+                <a href="Content.html">Content</a>
+                <p>Venha fazer suas consultas e exames na Clínica Saúde nota 10. Aqui você encontra profissionais competentes e educados, que vão lhe prestar um excelente atendimento, além dos melhores equipamentos, tudo de mais moderno que existe! Não se esqqueça, pensou em médico lembrou da Clínica saúde nota 10!</p>
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+
+            <div class="footer">
+                <a href="Footer.html"> Footer</a>
+                <p>Site desenvolvido pela Equipe Saúde nota 10.
+                    Endereço: rua da saúde, número 10, bairro da Prosperidade.</p>
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+#Página Sobre:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica saúde nota 10</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+            </ul>
+            <ul>
+                <li><a href="sobre.html">Sobre a clínica</a></li>
+            </ul>
+            <ul>
+                <li><a href="atendimento.html">Horário de Atendimento</a></li>
+            </ul>
+            <ul>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <a href="index.html"><h1>Saúde nota 10</h1></a>
+                <img src="stethoscope-840125_1280.jpg" alt="">
+                <!-- Aqui vai o seu header -->
+            </div>
+
+            <div class="content">
+                <a href="Content.html">Content</a>
+                <p>Venha fazer suas consultas e exames na Clínica Saúde nota 10. Aqui você encontra profissionais competentes e educados, que vão lhe prestar um excelente atendimento, além dos melhores equipamentos, tudo de mais moderno que existe! Não se esqqueça, pensou em médico lembrou da Clínica saúde nota 10!</p>
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+
+            <div class="footer">
+                <a href="Footer.html"> Footer</a>
+                <p>Site desenvolvido pela Equipe Saúde nota 10.
+                    Endereço: rua da saúde, número 10, bairro da Prosperidade.</p>
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+#Página atendimento
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica saúde nota 10</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+            </ul>
+            <ul>
+                <li><a href="sobre.html">Sobre a clínica</a></li>
+            </ul>
+            <ul>
+                <li><a href="atendimento.html">Horário de Atendimento</a></li>
+            </ul>
+            <ul>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <a href="index.html"><h1>Saúde nota 10</h1></a>
+                <img src="laboratory-2815641_1280.jpg" alt="">
+                <!-- Aqui vai o seu header -->
+            </div>
+
+            <div class="content">
+                <a href="Content.html">Content</a>
+                <p>Venha fazer suas consultas e exames na Clínica Saúde nota 10. Aqui você encontra profissionais competentes e educados, que vão lhe prestar um excelente atendimento, além dos melhores equipamentos, tudo de mais moderno que existe! Não se esqqueça, pensou em médico lembrou da Clínica saúde nota 10!</p>
+                <table border="">
+                    <tr>
+                        <th>Serviços</th>
+                        <th>Segunda a Sexta</th>
+                        <th>Sábados</th>
+                        <th>Feriados</th>
+                    </tr>
+                    <tr>
+                        <td>Clínica geral</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 14h</td>
+                        <td>08h - 14h</td>
+                    </tr>
+                    <tr>
+                        <td>Psicologia</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 14h</td>
+                        <td>08h - 14h</td>
+                    </tr>
+                    <tr>
+                        <td>Pediatria</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 18h</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Oftalmologia</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 18h</td>
+                        <td>-</td>
+                    </tr>
+                </table>
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+
+            <div class="footer">
+                <a href="Footer.html"> Footer</a>
+                <p>Site desenvolvido pela Equipe Saúde nota 10.
+                    Endereço: rua da saúde, número 10, bairro da Prosperidade.</p>
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+#Página Contato:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica saúde nota 10</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+            </ul>
+            <ul>
+                <li><a href="sobre.html">Sobre a clínica</a></li>
+            </ul>
+            <ul>
+                <li><a href="atendimento.html">Horário de Atendimento</a></li>
+            </ul>
+            <ul>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <a href="index.html"><h1>Saúde nota 10</h1></a>
+                <img src="surgery-1822458_1280.jpg" alt="">
+                <!-- Aqui vai o seu header -->
+            </div>
+
+            <div class="content">
+                <a href="Content.html">Content</a>
+                <p>Venha fazer suas consultas e exames na Clínica Saúde nota 10. Aqui você encontra profissionais competentes e educados, que vão lhe prestar um excelente atendimento, além dos melhores equipamentos, tudo de mais moderno que existe! Não se esqqueça, pensou em médico lembrou da Clínica saúde nota 10!</p>
+                <p>Telefone de contato 2345678</p>
+                <p>Endereço: rua da saúde, número 10, bairro da Prosperidade.</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255278.40063076906!2d-48.446863900000004!3d-1.34135195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a461af84756ce1%3A0x570d540215864c35!2zQmVsw6ltLCBQQQ!5e0!3m2!1spt-BR!2sbr!4v1710777960994!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <br><br>
+                <h2>Formulário de Contato</h2>
+                <form action="#" method="get">
+                    <label for="nome">Nome:</label><br>
+                    <input type="text" id="nome" name="nome" required><br>
+                  
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email" required><br>
+                  
+                    <label for="assunto">Assunto:</label><br>
+                    <textarea id="asssunto" name="asssunto" rows="1" cols="50" required></textarea><br>
+                    
+                    <label for="mensagem">Mensagem:</label><br>
+                    <textarea id="mensagem" name="mensagem" rows="4" cols="50" required></textarea><br>
+
+                    <input type="submit" value="Enviar">
+                </form>
+
+
+
+                <!-- Aqui vai o seu conteúdo -->
+            </div>
+
+            <div class="footer">
+                <a href="Footer.html"> Footer</a>
+                <p>Site desenvolvido pela Equipe Saúde nota 10.
+                    Endereço: rua da saúde, número 10, bairro da Prosperidade.</p>
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
